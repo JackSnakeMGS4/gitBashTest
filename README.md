@@ -1,2 +1,2 @@
-#GIT TEST
+#GITTEST
 Learning Git Bash basics
