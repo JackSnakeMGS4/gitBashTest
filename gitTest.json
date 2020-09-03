@@ -1,4 +1,5 @@
 {
     "name" : "Jaime",
-    "age" : 24
+    "age" : 24,
+    "hobbies": ["Music Production", "Updating Personal Portfolio"]
 }
